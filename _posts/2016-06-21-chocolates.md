@@ -2,8 +2,8 @@
 description: >-
   A sweet brown sugar center with the consistency of cookie dough dipped in milk
   or dark chocolate.
-dateModified: '2016-06-21T23:24:50.304Z'
-datePublished: '2016-06-21T23:25:01.040Z'
+dateModified: '2016-06-21T23:26:21.843Z'
+datePublished: '2016-06-21T23:26:33.497Z'
 title: Chocolates
 author: []
 isBasedOnUrl: >-
@@ -19,7 +19,7 @@ _type: MediaObject
 # Chocolates
 
 ## Almond Creme
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ed5f50-935b-4244-86b3-eac40ef34ef2.jpg)
+![ A  fragrant  almond  paste,  similar  to  European-­styled  marzipan,  wrapped  in  either  milk  or  dark  chocolate  and  topped  with  an  almond  sliver.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f5ed5f50-935b-4244-86b3-eac40ef34ef2.jpg)
 
 ## Maple Crème
 
