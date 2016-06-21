@@ -1,0 +1,14 @@
+layout_spectrum: 0.5995498411357403
+typography_spectrum: 0.9474439413752407
+color:
+  brandStrength: 0.39042721409350634
+  lightness: 0.6529024788178504
+  saturation: 0.7694002657663077
+  rhythmicContrast: 0.35201562917791307
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: tropschocolates
