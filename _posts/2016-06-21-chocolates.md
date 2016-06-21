@@ -4,8 +4,8 @@ description: >-
   raspberry jam using real, fresh berries. The center of this piece is a
   brilliant magenta with real seeds, not a gel, encased in milk or dark
   chocolate.
-dateModified: '2016-06-21T23:27:52.786Z'
-datePublished: '2016-06-21T23:28:28.469Z'
+dateModified: '2016-06-21T23:28:51.711Z'
+datePublished: '2016-06-21T23:28:54.923Z'
 title: Chocolates
 author: []
 isBasedOnUrl: >-
